@@ -1,4 +1,4 @@
-#BorrowEase#
+# BorrowEase #
 
 **BorrowEase** is a Java-based desktop application developed to replace manual paper logbooks with an automated equipment and room borrowing system.
 
