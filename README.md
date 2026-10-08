@@ -10,7 +10,7 @@ Maps the system interactions between the Student, Custodian, and Administrator r
 ## What's Included
 * **BorrowEaseGUI.java:** The main interface window that dynamically loads the Student, Custodian, or Administrator tabs based on the logged-in user. Contains the main() execution method.
 * **LoginWindow.java:** The initial authentication and account creation interface.
-* *`BorrowEaseDatabase.java:** Handles persistent SQLite database connectivity, executes automated schema updates, seeds default items and staff accounts, and manages data queries.
+* **BorrowEaseDatabase.java:** Handles persistent SQLite database connectivity, executes automated schema updates, seeds default items and staff accounts, and manages data queries.
 * **PasswordHasher.java:** Secures user passwords using PBKDF2WithHmacSHA256 encryption with a 16-byte salt and 600,000 iterations.
 * **Item.java:** The data model representing equipment/rooms, tracking overall quantity, available units, and units under maintenance.
 * **Request.java:** The data model tracking student borrow requests, quantities, penalties, and return conditions.
