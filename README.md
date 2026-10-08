@@ -1,5 +1,3 @@
-# BorrowEase
-
 System Architecture
 UML Use Case Diagram
 Maps the system interactions between the Student, Custodian, and Administrator roles.
