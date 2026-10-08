@@ -4,12 +4,8 @@ BorrowEase is a Java-based desktop application developed to replace manual paper
 ## System Architecture
 
 ### UML Use Case Diagram
-![Use Case Diagram]
+![Use Case Diagram](uml.jpg)
 Maps the system interactions between the Student, Custodian, and Administrator roles
-
-### UML Sequence Diagram
-![Sequence Diagram]
-Illustrates the backend communication between the Request Interface, Inventory Manager, and SQLite Database during a standard borrowing transaction.
 
 ## What's Included
 * **BorrowEaseGUI.java:** The main interface window that dynamically loads the Student, Custodian, or Administrator tabs based on the logged-in user. Contains the main() execution method.
