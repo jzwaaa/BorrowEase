@@ -1,3 +1,5 @@
+#BorrowEase#
+
 **BorrowEase** is a Java-based desktop application developed to replace manual paper logbooks with an automated equipment and room borrowing system.
 
 * **Student Role:** Browse real-time catalog availability, submit multi-unit borrow requests, cancel pending requests, and track due dates and penalty/damage charges (with borrowing blocked if holding overdue items or unpaid balances).
